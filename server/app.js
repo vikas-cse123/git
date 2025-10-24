@@ -10,5 +10,3 @@ app.listen(port,() =>{
 console.log("1111111111111111111");
 console.log("2222222222222222222222");
 console.log("333333333333333333333");
-//app.js
-//app.js2
